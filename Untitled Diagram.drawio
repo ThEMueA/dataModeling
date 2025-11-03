@@ -61,7 +61,7 @@
         <mxCell id="etJAHmL5WSfR6am71mnL-4" value="Портфейл" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="690" y="255" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="etJAHmL5WSfR6am71mnL-5" value="Portfolio" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="etJAHmL5WSfR6am71mnL-6" value="Portfolio" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
