@@ -57,9 +57,13 @@
         <mxCell id="etJAHmL5WSfR6am71mnL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dkPk2L4UxzjgvGzJDOwc-22" target="dkPk2L4UxzjgvGzJDOwc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqsFvoaPOm4gTBK0yw5O-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkPk2L4UxzjgvGzJDOwc-22">
+        <mxCell id="RqsFvoaPOm4gTBK0yw5O-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkPk2L4UxzjgvGzJDOwc-22" target="dkPk2L4UxzjgvGzJDOwc-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="180" />
+              <mxPoint x="60" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dkPk2L4UxzjgvGzJDOwc-22" value="API key" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
