@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="HjqQvXj9XSbfO_GMDH_6">
-    <mxGraphModel dx="2340" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1913" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,12 +229,6 @@
         </mxCell>
         <mxCell id="md5ChoEGxCQRQhYVPbyq-77" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="440" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="md5ChoEGxCQRQhYVPbyq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="md5ChoEGxCQRQhYVPbyq-79" target="dkPk2L4UxzjgvGzJDOwc-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="md5ChoEGxCQRQhYVPbyq-79" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Funds&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="md5ChoEGxCQRQhYVPbyq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="md5ChoEGxCQRQhYVPbyq-81" target="dkPk2L4UxzjgvGzJDOwc-28">
           <mxGeometry relative="1" as="geometry" />
