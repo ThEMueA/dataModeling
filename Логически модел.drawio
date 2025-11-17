@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="woaIjZ9Wet7BLOH5Z0cX">
-    <mxGraphModel dx="3702" dy="2602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4415" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry y="50" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-1" value="Wallet" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="-260" width="160" height="260" as="geometry" />
+          <mxGeometry x="960" y="-210" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-2" value="+ID(ref userID)&lt;div&gt;+assets&lt;br&gt;+currency&lt;/div&gt;&lt;div&gt;+account_num&lt;/div&gt;&lt;div&gt;+funds&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="-GjXqcoQB8_IfFJcScXs-1">
           <mxGeometry y="50" width="160" height="210" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry y="50" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-9" value="Asset" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="310" width="160" height="260" as="geometry" />
+          <mxGeometry x="920" y="290" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-10" value="+assetID&lt;br&gt;+name&lt;br&gt;+price&lt;div&gt;+type&lt;/div&gt;&lt;div&gt;+company&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="-GjXqcoQB8_IfFJcScXs-9">
           <mxGeometry y="50" width="160" height="210" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry y="50" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-17" value="API key" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="-230" width="160" height="260" as="geometry" />
+          <mxGeometry x="-520" y="-190" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-18" value="+ID&lt;br&gt;+type&lt;br&gt;+key&lt;div&gt;+created_at&lt;br&gt;&lt;div&gt;+exp_date&lt;/div&gt;&lt;div&gt;+userID&lt;/div&gt;&lt;div&gt;+permission&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="-GjXqcoQB8_IfFJcScXs-17">
           <mxGeometry y="50" width="160" height="210" as="geometry" />
