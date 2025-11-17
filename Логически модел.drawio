@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="woaIjZ9Wet7BLOH5Z0cX">
-    <mxGraphModel dx="4415" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HnJ4wmNL2euPud3zfmW1-1" value="User" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-200" width="160" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="HnJ4wmNL2euPud3zfmW1-2" value="+userID&lt;br&gt;+user_name&lt;br&gt;+name&lt;div&gt;+age&lt;/div&gt;&lt;div&gt;+phone_num&lt;/div&gt;&lt;div&gt;+civil_num&lt;/div&gt;&lt;div&gt;+idcard_num&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="HnJ4wmNL2euPud3zfmW1-1" vertex="1">
+        <mxCell id="HnJ4wmNL2euPud3zfmW1-2" value="+userID&lt;br&gt;+user_name&lt;br&gt;+fname&lt;div&gt;+lname&lt;br&gt;&lt;div&gt;+birthdate&lt;/div&gt;&lt;div&gt;+phone_num&lt;/div&gt;&lt;div&gt;+civil_num&lt;/div&gt;&lt;div&gt;+idcard_num&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="HnJ4wmNL2euPud3zfmW1-1" vertex="1">
           <mxGeometry y="50" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-GjXqcoQB8_IfFJcScXs-1" value="Wallet" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
