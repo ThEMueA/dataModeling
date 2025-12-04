@@ -4,9 +4,9 @@ Alice,USD,USA,New York
 Bob,EUR,Germany,Berlin
 Charlie,JPY,Japan,Tokyo
 Diana,GBP,UK,London
-Ethan,CAD,Canada,Toronto
-Fiona,AUD,Australia,Sydney
+Ethan,USD,Canada,Toronto
+Fiona,USD,Australia,Sydney
 George,CHF,Switzerland,Zurich
 Hannah,SGD,Singapore,Singapore
-Ian,INR,India,Mumbai
+Ian,USD,India,Mumbai
 Julia,CNY,China,Shanghai
